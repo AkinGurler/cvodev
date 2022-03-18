@@ -1,0 +1,39 @@
+.baslik{
+text-align: Center;
+color:SteelBlue;
+}
+div {
+  float: left;
+  padding: 15px;
+}
+
+.div1 {
+  background:GhostWhite ;
+  width:35%;
+  height:10%;
+}
+
+.div2 {
+margin:center;
+float: center;
+  background: ;
+  width:58%;
+  height:700px;
+}
+
+
+h3 {
+  font-size: 35px;
+  text-align: left;
+  
+  color:SteelBlue;
+  border-bottom: 2px solid SteelBlue;
+}
+h4	{
+  font-size: 3x;
+  
+}
+p.solicerik {
+  font-size: 20px;
+  
+}
